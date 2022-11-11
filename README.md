@@ -60,6 +60,6 @@ Preprocessed the data and did not drop the EIN & NAME columns. Model's accuracy 
 
 Tried few more neural models with having just dropped `EIN` column alone and had variations in the neurons and hidden layers. But reached only 73% accuracy.
 
-3. **Summary**: After trying 5 different neural models, my conclusion would be that more the number of features and large dataset help train the neural model better and also provides a better accuracy of prediction.
+**Summary**: After trying 5 different neural models, my conclusion would be that more the number of features and large dataset help train the neural model better and also provides a better accuracy of prediction.
 
 - - -
